@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha .",
-    "dev": "nodemon  --trace-warnings server.js"
+    "dev": "nodemon  --trace-warnings server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
